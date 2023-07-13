@@ -1,0 +1,8 @@
+C:\Users\91849\OneDrive\Desktop\mphasis\day4\d4p2\d4p2\bin\Debug\d4p2.exe.config
+C:\Users\91849\OneDrive\Desktop\mphasis\day4\d4p2\d4p2\bin\Debug\d4p2.exe
+C:\Users\91849\OneDrive\Desktop\mphasis\day4\d4p2\d4p2\bin\Debug\d4p2.pdb
+C:\Users\91849\OneDrive\Desktop\mphasis\day4\d4p2\d4p2\obj\Debug\d4p2.csproj.AssemblyReference.cache
+C:\Users\91849\OneDrive\Desktop\mphasis\day4\d4p2\d4p2\obj\Debug\d4p2.csproj.SuggestedBindingRedirects.cache
+C:\Users\91849\OneDrive\Desktop\mphasis\day4\d4p2\d4p2\obj\Debug\d4p2.csproj.CoreCompileInputs.cache
+C:\Users\91849\OneDrive\Desktop\mphasis\day4\d4p2\d4p2\obj\Debug\d4p2.exe
+C:\Users\91849\OneDrive\Desktop\mphasis\day4\d4p2\d4p2\obj\Debug\d4p2.pdb
